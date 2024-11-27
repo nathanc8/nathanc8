@@ -2,7 +2,7 @@
 
 ## 💬 About me
 I'm 27, living in Nantes, France, and currently on a career change at AdaTechSchool. I'm aspiring to become a full stack web developer.
-I've always loved optimizing things and solving problems, whether it is in my hobbies (such as video games or sports), or in my professional life, as a Quality Analyst. I intent to apply this same mindset to my career as a developer.
+I've always loved optimizing things and solving problems, whether it is in my hobbies (such as video games or sports), or in my previous professional life, as a Quality Analyst. I intent to apply this same mindset to my career as a developer.
 
 ## 💻 Skills and technologies
 - VS Code, Git & GitHub, IntelliJ Idea, Jira, Xray, MySQLWorbench, PHPMyAdmin.
