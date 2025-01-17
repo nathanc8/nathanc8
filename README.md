@@ -19,5 +19,6 @@ Dont hesitate to get in touch with me 😄
 - cazard.nathan@gmail.com
 - Via [Github](https://github.com/nathanc8)
 - Via [Linkedin](www.linkedin.com/in/nathan-cazard) 
+- Via [my portfolio](https://portfolio-angular-cazard-nathan.vercel.app/) 
 
 
